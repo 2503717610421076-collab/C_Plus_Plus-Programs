@@ -23,8 +23,8 @@ int main()
     }
     
     cout<<"\n-----Electricity Bill-----\n\nCost = Rs."<<t<<endl;
-    system("pause");
     
     return 0; 
     
 }
+
