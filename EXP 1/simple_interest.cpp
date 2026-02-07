@@ -18,6 +18,6 @@ int main()
     si=(p*r*t)/100;
     
     cout<<"Simple interest = "<<fixed<<setprecision(2)<<si<<endl;
-    system("pause");
     return 0;
 }
+
