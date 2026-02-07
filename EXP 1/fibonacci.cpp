@@ -13,6 +13,6 @@ int main()
                     x=y;
                     y=s;
     }
-    system("pause");
     return 0;
 }
+
