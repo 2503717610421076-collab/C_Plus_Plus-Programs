@@ -38,6 +38,6 @@ int main()
         cout<<n<<" is not armstrong \anumber\n";
     }
     
-    system("pause");
     return 0;
 }
+
