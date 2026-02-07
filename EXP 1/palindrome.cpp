@@ -20,6 +20,6 @@ int main()
     {
         cout<<n<<" is not palindrome..."<<endl;
     }
-    system("pause");
     return 0;    
 }
+
