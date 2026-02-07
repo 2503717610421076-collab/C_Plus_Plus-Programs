@@ -178,7 +178,7 @@ int main()
                    
      }
      cout<<"Products over..."<<endl;
-     system("pause");
      return 0;
 
 }
+
