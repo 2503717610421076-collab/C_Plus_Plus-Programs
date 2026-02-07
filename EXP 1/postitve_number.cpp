@@ -14,6 +14,6 @@ int main()
                cout<<"\nOops..! you entered the negative number\nRenter the positive number\n\n";
         }
     }while(n<=0);
-    system("pause");
     return 0;
 }
+
