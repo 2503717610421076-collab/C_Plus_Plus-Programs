@@ -17,6 +17,6 @@ int main()
             }  
     }
     cout<<"Factorial of "<<n<<" = "<<m<<endl;
-    system("pause");
     return 0;
 }
+
