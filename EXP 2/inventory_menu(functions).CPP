@@ -145,8 +145,8 @@ x=0;
 
 }while(x);
 
-system("pause");
 return 0;
 
 }
+
 
