@@ -151,9 +151,9 @@ int main()
 
     }while(x);
 
-system("pause");
 return 0;
 }
+
 
 
 
